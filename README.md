@@ -1,1 +1,2 @@
-# CS350P1
+# CS350P3
+add here how to compile and run
